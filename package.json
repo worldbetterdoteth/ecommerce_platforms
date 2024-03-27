@@ -1,0 +1,31 @@
+{
+  "name": "ecommerce_platforms",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "ecommerce_platforms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldbetterdoteth/ecommerce_platforms"
+  },
+  "website": "https://github.com/worldbetterdoteth/ecommerce_platforms.git",
+  "keywords": [
+    "ecommerce_platforms"
+  ],
+  "author": "worldbetterdoteth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldbetterdoteth/ecommerce_platforms/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/worldbetterdoteth/ecommerce_platforms#readme",
+  "dependencies": {
+    "recommendation_systems": "1.0.2"
+  }
+}
